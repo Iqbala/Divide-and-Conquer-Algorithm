@@ -1,2 +1,2 @@
 # Divide-and-Conquer-Algorithm
-Algorithm for matrix multiplication using divide and conquer method.
+Divide and conquer algorithm for matrix multiplication.
