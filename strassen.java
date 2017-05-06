@@ -4,7 +4,7 @@ import java.util.*;
 *  Instructor: Professor Jinsong Ouyang
 *  Assignment #3: Matrix Multiplication.  
 */
-public class Strassen {
+public class strassen {
     Random r, r1;
     private static int[][] a = new int[2][2];
     private static int[][] b = new int[2][2];
